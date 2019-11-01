@@ -1,0 +1,150 @@
+canvas {
+	cursor: default;
+	outline: none;
+}
+
+body {
+	color: black;
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	background-color: #0000ff;
+	/* background-image: url(images/vborder.png);
+	background-repeat: no-repeat; */
+}
+
+/* 
+body {
+    background-color: #222222;
+} */
+.superdev_TODO {
+	color: rgb(37, 37, 37);
+	text-shadow: 0px 1px 1px rgba(250, 250, 250, 0.1);
+	font-size: 50pt;
+	display: block;
+	position: relative;
+	text-decoration: none;
+	background-color: rgb(83, 87, 93);
+	box-shadow: 0px 3px 0px 0px rgb(34, 34, 34), 0px 7px 10px 0px
+		rgb(17, 17, 17), inset 0px 1px 1px 0px rgba(250, 250, 250, .2), inset
+		0px -12px 35px 0px rgba(0, 0, 0, .5);
+	width: 70px;
+	height: 70px;
+	border: 0;
+	border-radius: 35px;
+	text-align: center;
+	line-height: 68px;
+}
+
+.superdev_TODO:active {
+	box-shadow: 0px 0px 0px 0px rgb(34, 34, 34), 0px 3px 7px 0px
+		rgb(17, 17, 17), inset 0px 1px 1px 0px rgba(250, 250, 250, .2), inset
+		0px -10px 35px 5px rgba(0, 0, 0, .5);
+	background-color: rgb(83, 87, 93);
+	top: 3px;
+	color: #fff;
+	text-shadow: 0px 0px 3px rgb(250, 250, 250);
+}
+
+.superdev_TODO:hover {
+	background-color: rgb(100, 100, 100);
+}
+
+.cw-DockPanel td {
+	border: 1px solid #BBBBBB;
+	padding: 0px;
+}
+
+.cw-FlexTable td {
+	border: 1px solid #BBBBBB;
+	padding: 3px;
+}
+
+.TopRight {
+	float: right;
+	margin-top: -22px;
+	width: 16px;
+	height: 16px;
+	display: block;
+	/* background-image: url(assets/eye.png); */
+}
+
+
+
+
+.gwt-DialogBoxNew .Caption { 
+  background: #e3e8f3 url(images/hborder.png) repeat-x 0px -2003px; 
+  padding: 4px 4px 4px 8px; 
+  cursor: default; 
+  border-bottom: 1px solid #ff0000; 
+  border-top: 5px solid #ffffff; 
+} 
+.gwt-DialogBoxNew .dialogContent { 
+} 
+.gwt-DialogBoxNew .dialogMiddleCenter { 
+  padding: 3px; 
+  background: white; 
+} 
+.gwt-DialogBox .dialogBottomCenter { 
+  background: url(images/hborder.png) repeat-x 0px -4px; 
+  -background: url(images/hborder_ie6.png) repeat-x 0px -4px; 
+} 
+.gwt-DialogBox .dialogMiddleLeft { 
+  background: url(images/vborder.png) repeat-y; 
+} 
+.gwt-DialogBox .dialogMiddleRight { 
+  background: url(images/vborder.png) repeat-y -4px 0px; 
+  -background: url(images/vborder_ie6.png) repeat-y -4px 0px; 
+} 
+.gwt-DialogBox .dialogTopLeftInner { 
+  width: 5px; 
+  zoom: 1; 
+} 
+.gwt-DialogBox .dialogTopRightInner { 
+  width: 8px; 
+  zoom: 1; 
+} 
+.gwt-DialogBox .dialogBottomLeftInner { 
+  width: 5px; 
+  height: 8px; 
+  zoom: 1; 
+} 
+.gwt-DialogBox .dialogBottomRightInner { 
+  width: 5px; 
+  height: 8px; 
+  zoom: 1; 
+} 
+.gwt-DialogBox .dialogTopLeft { 
+  background: url(images/cornerbbdd.png) no-repeat -13px 0px; 
+  -background: url(images/corner_ie6bbdd.png) no-repeat -13px 0px; 
+} 
+.gwt-DialogBox .dialogTopRight { 
+  background: url(images/corner.png) no-repeat -18px 0px; 
+  -background: url(images/corner_ie6.png) no-repeat -18px 0px; 
+} 
+.gwt-DialogBox .dialogBottomLeft { 
+  background: url(images/corner.png) no-repeat 0px -15px; 
+  -background: url(images/corner_ie6.png) no-repeat 0px -15px; 
+} 
+.gwt-DialogBox .dialogBottomRight { 
+  background: url(images/corner.png) no-repeat -5px -15px; 
+  -background: url(images/corner_ie6.png) no-repeat -5px -15px; 
+} 
+* html .gwt-DialogBox .dialogTopLeftInner { 
+  width: 5px; 
+  overflow: hidden; 
+} 
+* html .gwt-DialogBox .dialogTopRightInner { 
+  width: 8px; 
+  overflow: hidden; 
+} 
+* html .gwt-DialogBox .dialogBottomLeftInner { 
+  width: 5px; 
+  height: 8px; 
+  overflow: hidden; 
+} 
+* html .gwt-DialogBox .dialogBottomRightInner { 
+  width: 8px; 
+  height: 8px; 
+  overflow: hidden; 
+} 

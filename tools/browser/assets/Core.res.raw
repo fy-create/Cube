@@ -1,0 +1,180 @@
+{
+regionMetaList: [
+	{
+		id: cubelet
+		fileName: cubelet.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: cubelet_h
+		fileName: cubelet_h.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: front
+		fileName: front.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: rec
+		fileName: rec.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: rec_h
+		fileName: rec_h.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: rec_d
+		fileName: rec_d.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: cube1
+		fileName: cube1.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: play
+		fileName: play.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: pause
+		fileName: pause.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: reset
+		fileName: reset.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: circle_h
+		fileName: circle_h.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: info
+		fileName: information.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: bt_rec
+		fileName: bt_rec.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: bt_rec_h
+		fileName: bt_rec_h.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: ele_rec
+		fileName: ele_rec.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: ele_rec_h
+		fileName: ele_rec_h.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: close
+		fileName: close.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: indicator
+		fileName: indicator.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: pop_bg
+		fileName: pop_bg.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: bar
+		fileName: bar.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: front_d
+		fileName: front_d.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: xyz
+		fileName: xyz.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: xyz_d
+		fileName: xyz_d.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: leaderboard
+		fileName: leaderboard.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: setting
+		fileName: settings.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: share
+		fileName: share.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: back
+		fileName: back.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: cube2
+		fileName: cube2.png
+		frameRows: 1
+		frameColumns: 1
+	}
+	{
+		id: cubelet_white
+		fileName: cubelet_white.png
+		frameRows: 1
+		frameColumns: 1
+	}
+]
+fontMetaList: []
+particleMetaList: []
+}

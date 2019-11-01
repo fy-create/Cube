@@ -1,2 +1,2 @@
-# Cube
-Rubik's Cube Ref
+# Cube tutorial
+Rubik's Cube tutorial

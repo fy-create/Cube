@@ -3,6 +3,9 @@ This is a simple CFOP Rubik 's cube restore tutorial, just need to remember 9 fo
 
 [Link](/tools/browser/index.html)
 
+[Link](/tools/browser/index.html) {:target="_blank"} 
+
+
 ## 1: Solve the white cross
 Holding the cube with white center on the down face,you should create white cross as this picture,this step is easy,"we give some simple tips.Other scenes can be adjusted to S1／S2.
 

@@ -3,7 +3,7 @@ This is a simple CFOP Rubik 's cube restore tutorial, just need to remember 9 fo
 
 [Link](/tools/browser/index.html)
 
-[Link](/tools/browser/index.html) {:target="_blank"} 
+<a href="http://example.com/" target="_blank">example</a>
 
 
 ## 1: Solve the white cross

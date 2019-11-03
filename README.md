@@ -3,7 +3,8 @@ This is a simple CFOP Rubik 's cube restore tutorial, just need to remember 9 fo
 
 [Link](/tools/browser/index.html)
 
-<iframe src="//tools/browser/index.html" width="700px" height="500px" frameborder="1" scrolling="no"> </iframe>
+<iframe src="https://fy-create.github.io/Cube/tools/browser/index.html" width="100px" height="100px" frameborder="1" scrolling="no"> </iframe>
+
 <a href="http://example.com/" target="_blank">example</a>
 
 

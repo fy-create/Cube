@@ -2,7 +2,7 @@
 This is a simple CFOP Rubik 's cube restore tutorial, just need to remember 9 formulas can restore the Rubik' s cube smoothly.Restore the cube is not difficult, it is important to have confidence, follow the tutorial to experiment, wish you success!
 
 
-<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html" width="100px" height="100px" frameborder="1" scrolling="no"> </iframe>
+<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html" width="300px" height="300px" frameborder="1" scrolling="no"> </iframe>
 
 
 

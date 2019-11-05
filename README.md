@@ -1,6 +1,11 @@
 # Cube tutorial
 This is a simple CFOP Rubik 's cube restore tutorial, just need to remember 9 formulas can restore the Rubik' s cube smoothly.Restore the cube is not difficult, it is important to have confidence, follow the tutorial to experiment, wish you success!
 
+
+<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html" width="300px" height="300px" frameborder="0" scrolling="no"> </iframe>
+
+
+
 ## 1: Solve the white cross
 Holding the cube with white center on the down face,you should create white cross as this picture,this step is easy,"we give some simple tips.Other scenes can be adjusted to S1／S2.
 

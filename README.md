@@ -10,7 +10,7 @@ This is a simple CFOP Rubik's cube restore tutorial, just need to remember 9 for
 Holding the cube with white center on the down face,you should create white cross as this picture,this step is easy,"we give some simple tips.Other scenes can be adjusted to Case1／case2.
 
 Case1.White piece on up
-<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={edge:5678,center:23456,monitorEdge:5,edgeDirAndPath:5,formula:FF}" width="356px" height="356px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={edge:5678,center:23456,monitorEdge:5,edgeDirAndPath:5,formula:FF}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
 
 Case2.White piece on front

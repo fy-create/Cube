@@ -21,14 +21,14 @@
 <table>
     <tbody>
         <tr>
-            <td><img border="0"  src="res/U.png"></td>
-            <td><img border="0"  src="res/R.png"></td>
-            <td><img border="0"  src="res/F.png"></td>
+            <td><img border="0"  src="../res/U.png"></td>
+            <td><img border="0"  src="../res/R.png"></td>
+            <td><img border="0"  src="../res/F.png"></td>
         </tr>
         <tr>
-            <td><img border="0"  src="res/D.png"></td>
-            <td><img border="0"  src="res/L.png"></td>
-            <td><img border="0"  src="res/B.png"></td>
+            <td><img border="0"  src="../res/D.png"></td>
+            <td><img border="0"  src="../res/L.png"></td>
+            <td><img border="0"  src="../res/B.png"></td>
         </tr>
     </tbody>
 </table>

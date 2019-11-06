@@ -19,7 +19,7 @@ Holding the cube with white center on the down face,you should create white cros
 
 **So far, your Rubik's Cube should have a bottom cross**
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,eye:true,edge:5678,center:23456,formula:yyyy}
-" width="50px" height="50px" frameborder="0" scrolling="no"></iframe>
+" width="200px" height="200px" frameborder="0" scrolling="no"></iframe>
 
 ## 2: Solve the white corners
 With the white center on the down face,you should solve the white corner pieces.do the 3 formulas,you will resolve all white corners in the correct position.

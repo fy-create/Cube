@@ -1,18 +1,17 @@
-# Cube tutorial bin
-This is a simple CFOP Rubik 's cube restore tutorial, just need to remember 9 formulas can restore the Rubik' s cube smoothly.Restore the cube is not difficult, it is important to have confidence, follow the tutorial to experiment, wish you success!
+# Simple Cube Tutorial
+This is a simple CFOP Rubik's cube restore tutorial, just need to remember 9 formulas can restore the Rubik' s cube smoothly.Restore the cube is not difficult, it is important to have confidence, follow the tutorial to experiment, wish you success!
 
-NOT UPDATE
 
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={corner:12345678,center:123456,edge:1234567890AB,eye:false,colorConf:{u:WHITE,d:YELLOW,f:GREEN,b:BLUE,l:ORANGE,r:RED},preFormula:U%27L2UB2U%27L2DL%27D%27R%27UFB%27R%27F2D2RDR%27,formula:y%27z(U%27RFR%27D)(U%27L%27U2L2U%27L%27)(UR%27URR%27URUR%27U%27R)(FRU%27R%27U%27RUR%27F%27)(RU%27RURURU%27R%27U%27R2U)y%27z(U%27RFR%27D)(U%27L%27U2L2U%27L%27)(UR%27URR%27URUR%27U%27R)(FRU%27R%27U%27RUR%27F%27)(RU%27RURURU%27R%27U%27R2U)}" width="356px" height="356px" frameborder="0" scrolling="no"> </iframe>
 
 
 
 ## 1: Solve the white cross
-Holding the cube with white center on the down face,you should create white cross as this picture,this step is easy,"we give some simple tips.Other scenes can be adjusted to S1／S2.
+Holding the cube with white center on the down face,you should create white cross as this picture,this step is easy,"we give some simple tips.Other scenes can be adjusted to Case1／case2.
 
-S1.White piece on up
+Case1.White piece on up
 
-S2.White piece on front
+Case2.White piece on front
 
 ## 2: Solve the white corners
 With the white center on the down face,you should solve the white corner pieces.do the 3 formulas,you will resolve all white corners in the correct position.
@@ -70,4 +69,3 @@ Put the pieces that do not need to be swapped on back face, with this formula ca
 S1
 
 S2
-

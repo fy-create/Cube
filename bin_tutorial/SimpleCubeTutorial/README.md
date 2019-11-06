@@ -8,13 +8,14 @@ This is a simple CFOP Rubik's cube restore tutorial, just need to remember 9 for
 
 
 ## 1: Solve the white cross
-Holding the cube with white center on the down face,you should create white cross as this picture,this step is easy,"we give some simple tips.Other scenes can be adjusted to Case1／case2.
+Holding the cube with white center on the down face,you should create white cross at down face,this step is easy,"we give some simple tips.Other scenes can be adjusted to case1／case2.
 
-### Case1 White piece on up
+### Case1 White piece on U(up)
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,edge:5678,center:23456,monitorEdge:5,edgeDirAndPath:5,formula:FF}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
-
-### Case2 White piece on front
+### Case2 White piece on F(front)
+<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,edge:5678,center:23456,monitorEdge:5,edgeDirAndPath:+55,formula:U'R'FR}
+" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
 ## 2: Solve the white corners
 With the white center on the down face,you should solve the white corner pieces.do the 3 formulas,you will resolve all white corners in the correct position.

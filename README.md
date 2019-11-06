@@ -1,3 +1,3 @@
 # Simple Cube Tutorial
-- [Basic](./bin_tuorial/basic)
-- [Simple Tutorial](./bin_tutorial/simpleCubeTutorial)
+- [Basic](./bin_tutorial/basic)
+- [Simple Tutorial](./bin_tutorial/SimpleCubeTutorial)

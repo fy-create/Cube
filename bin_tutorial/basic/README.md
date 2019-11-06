@@ -17,7 +17,7 @@
     </tbody>
 </table>
 
-### Cube Rotation
+### Cube Base Rotation
 <table>
     <tbody>
         <tr>
@@ -29,6 +29,32 @@
             <td><img border="0"  src="../res/D.png"></td>
             <td><img border="0"  src="../res/L.png"></td>
             <td><img border="0"  src="../res/B.png"></td>
+        </tr>
+    </tbody>
+</table>
+
+### Cube Advance Rotation
+<table>
+    <tbody>
+        <tr>
+            <td><img border="0"  src="../res/X.png"></td>
+            <td><img border="0"  src="../res/Y.png"></td>
+            <td><img border="0"  src="../res/Z.png"></td>
+        </tr>
+        <tr>
+            <td><img border="0"  src="../res/ui.png"></td>
+            <td><img border="0"  src="../res/ri.png"></td>
+            <td><img border="0"  src="../res/fi.png"></td>
+        </tr>
+        <tr>
+            <td><img border="0"  src="../res/di.png"></td>
+            <td><img border="0"  src="../res/li.png"></td>
+            <td><img border="0"  src="../res/bi.png"></td>
+        </tr>
+        <tr>
+            <td><img border="0"  src="../res/E.png"></td>
+            <td><img border="0"  src="../res/M.png"></td>
+            <td><img border="0"  src="../res/S.png"></td>
         </tr>
     </tbody>
 </table>

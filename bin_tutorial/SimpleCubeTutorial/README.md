@@ -11,7 +11,7 @@ This is a simple CFOP Rubik's cube restore tutorial, just need to remember 9 for
 Holding the cube with white center on the down face,you should create white cross at down face,this step is easy,"we give some simple tips.Other scenes can be adjusted to case1／case2.
 After this step should have a bottom cross at D(down) like this:
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,edge:5678,center:23456}
-" width="150px" height="150px" frameborder="0" scrolling="no"></iframe>
+" width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
 
 - Case1 White piece on U(up)
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,edge:5678,center:23456,monitorEdge:5,edgeDirAndPath:5,formula:FF}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
@@ -27,7 +27,7 @@ After this step should have a bottom cross at D(down) like this:
 With the white center on the down face,you should solve the white corner pieces.do the 3 formulas,you will resolve all white corners in the correct position.
 After this step the D(down) should like this:
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:5678,edge:5678,center:23456}
-" width="150px" height="150px" frameborder="0" scrolling="no"></iframe>
+" width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
 
 - Case1 White piece on F(front)
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:5678,edge:5678,center:123456,monitorCorner:8,cornerDirAndPath:<884,formula:URU'R'}

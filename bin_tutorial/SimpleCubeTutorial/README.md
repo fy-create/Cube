@@ -48,7 +48,7 @@ After this step the first 2 layers should like this:
 " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
 
 - Case1 UR(4) move to FR(9)
-<img border="0"  src="../res/UR2FR.png">
+<img border="0" src="../res/UR2FR.png">
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:5678,edge:567890AB,center:123456,monitorEdge:9,edgeDirAndPath:94,formula:R'U'R'U'R'URUR,duration:0.5}
 " width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 

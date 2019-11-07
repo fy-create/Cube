@@ -4,16 +4,16 @@
 <table class="hoverable bordered striped responsive-table">
     <tbody>
         <tr>
-            <td><span style="color: red;">U</span>(Up)</td>
-            <td><span style="color: red;">D</span>(Down)</td>
+            <td><span style="color: red;">U</span>(Up) 顶</td>
+            <td><span style="color: red;">D</span>(Down) 底</td>
         </tr>
         <tr>
-            <td><span style="color: red;">F</span>(Face)</td>
-            <td><span style="color: red;">B</span>(Back)</td>
+            <td><span style="color: red;">F</span>(Face) 前</td>
+            <td><span style="color: red;">B</span>(Back) 后</td>
         </tr>
         <tr>
-            <td><span style="color: red;">L</span>(Left)</td>
-            <td><span style="color: red;">R</span>(Right)</td>
+            <td><span style="color: red;">L</span>(Left) 左</td>
+            <td><span style="color: red;">R</span>(Right) 右</td>
         </tr>
     </tbody>
 </table>

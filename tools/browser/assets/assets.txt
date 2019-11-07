@@ -21,9 +21,9 @@ d:view:0:application/unknown
 b:view/CubeSuper.raw:142:application/unknown
 b:view/CubeMain.raw:142:application/unknown
 b:view/CubePlayer.raw:5024:application/unknown
-b:view/CubeTutorialSingle.raw:6854:application/unknown
+b:view/CubeTutorialSingle.raw:6832:application/unknown
 b:view/Core.raw:2045:application/unknown
-b:view/CubeFormulaSingle.raw:6857:application/unknown
+b:view/CubeFormulaSingle.raw:6835:application/unknown
 i:circle_h.png:10848:image/png
 i:bar.png:161:image/png
 i:play.png:7955:image/png

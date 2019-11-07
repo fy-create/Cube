@@ -368,7 +368,6 @@ bodyList: [
 			type: MyStaticBody
 			texture: ""
 			textAlign: Align_center
-			text: INIT FORMULA
 		}
 		shapeList: [
 			{

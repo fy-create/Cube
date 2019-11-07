@@ -16,7 +16,7 @@
           </tr>
           <tr>
               <td>
-              <iframe src="//tools/browser/cube.html?para={screenRatio:1.0,edge:5678,center:23456}
+              <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,edge:5678,center:23456}
               " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
               </td>
               <td><span style="color: red;">B</span>(Back)</td>

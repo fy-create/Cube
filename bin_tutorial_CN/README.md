@@ -21,15 +21,20 @@
               <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:5678,edge:567890AB,center:23456}
               " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
               </td>
-              </td>
           </tr>
           <tr>
               <td><span style="color: red;">OLL</span></td>
               <td><span style="color: red;">PLL</span></td>
           </tr>
           <tr>
-              <td>https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U}}</td>
-              <td>https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:12345678,edge:1234567890AB,center:123456}</td>
+          <td>
+          <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U}}
+          " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
+          </td>
+          <td>
+          <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:12345678,edge:1234567890AB,center:123456}
+          " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
+          </td>
           </tr>
       </tbody>
   </table>

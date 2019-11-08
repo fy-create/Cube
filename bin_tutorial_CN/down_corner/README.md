@@ -3,7 +3,7 @@
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:5678,edge:5678,center:23456}
 " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
 
-在完成底层十字后,接下来需要还原底层角块,现根据颜色找到目标角块,再把目标角块放到上前右(UFR)的位置,我们的目标是把上前右的角块转动到下面也就是DFR的位置,这样就共有3种case,对应有3个公式,用这3个公式您会发现原有的底层十字依旧完好不会被打乱.<BR>
+在完成底层十字后,接下来需要还原底层角块,先根据颜色找到目标角块,再把目标角块放到上前右(UFR)的位置,我们的目标是把上前右的角块转动到下面也就是DFR的位置,这样就共有3种case,对应有3个公式,用这3个公式您会发现原有的底层十字依旧完好不会被打乱.<BR>
 
 
 - Case1 白色角块在F(前）<span style="color: red;">**URU'R'**</span>

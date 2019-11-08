@@ -1,9 +1,15 @@
 ## <span style="color: red;">CFOP</span>魔方复原教程
-这是一个简单的**层先法**(CFOP)魔方还原教程CFOP方法一共分四步:CROSS→F2L→OLL→PLL
-- CROSS:意思是底部打好十字
-- F2L:(First two Layers) 意思是同时对好前两层
-- OLL:(Orientation of last layer）意思是把顶层朝上的颜色统一
-- PLL:(Permutation of last layer）意思是调整顶层顺序(完成整个魔方）
+这是一个简单易学的**层先法**7步3D魔方还原教程,共有7个步骤<BR>
+:CROSS→F2L→OLL→PLL
+1: 建立底层白色十字
+2: 解决底面白色角块
+3:
+4:
+5:
+6:
+7:
+
+
 
 下表列出了每一步完成后的目标,你可以在图中转动魔方查看其他面.
 
@@ -48,4 +54,4 @@
 - [认识魔方的构成](./cube_element)
 - 开始7步还原步骤
   * [1: 建立底层白色十字](./down_cross)
-  * [1: 解决底面白色角块](./down_corner)
+  * [2: 解决底面白色角块](./down_corner)

@@ -3,11 +3,11 @@
 
 - 1: 建立底层白色十字
 - 2: 解决底面白色角块
-- 3:
-- 4:
-- 5:
-- 6:
-- 7:
+- 3: 解决中间层
+- 4: 解决顶层黄色十字
+- 5: 解决顶层所有黄色
+- 6: 解决顶层角块
+- 7: 顶层棱块归位
 
 
 
@@ -16,8 +16,8 @@
 <table class="hoverable bordered striped responsive-table">
     <tbody>
         <tr>
-            <td><span style="color: red;">CROSS</span></td>
-            <td><span style="color: red;">F2L</span></td>
+            <td><span style="color: red;">1</span></td>
+            <td><span style="color: red;">2-3</span></td>
         </tr>
         <tr>
             <td>
@@ -30,8 +30,8 @@
             </td>
         </tr>
         <tr>
-            <td><span style="color: red;">OLL</span></td>
-            <td><span style="color: red;">PLL</span></td>
+            <td><span style="color: red;">4-5</span></td>
+            <td><span style="color: red;">6-7</span></td>
         </tr>
         <tr>
         <td>

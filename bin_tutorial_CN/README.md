@@ -56,3 +56,4 @@
   * [1: 建立底层白色十字](./down_cross)
   * [2: 解决底面白色角块](./down_corner)
   * [3: 解决中间层](./middle_layer)
+  * [4: 解决顶层黄色十字](./up_cross)

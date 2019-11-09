@@ -1,15 +1,18 @@
 ### 3: 解决中间层
 您的目标：
-<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,edge:5678,center:23456}
+<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:5678,edge:567890AB,center:23456}
 " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
 
-建立底层白色十字,对于初学者我们使用比较简单的方法,把目标棱块先放到前面(F)的上面(UF),注意不要搞乱了已经调整好的棱块,这样就只有2种case了.
-这2个公式由于比较简单,本教程没有统计到总体的步骤中，接下来您总共还需要记住9个类似的公式就可以顺利的还原魔方.<BR>
-图中魔方的下方会列出本步骤的对应公式,您也可以点击公式元素来回到公式运行前的模样,点击播放箭头可以自动的按照公式来转动魔方.
+完成这一层需要使用2个公式,先根据颜色找到目标棱块,再把目标棱块放到上右(UR)的位置,在根据下面2中情况来让目标棱块归位.<BR>
 
-- Case1 白色角块在U(顶）
-<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,edge:5678,center:23456,monitorEdge:5,edgeDirAndPath:5,formula:FF}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
--  Case2 白色角块在F(前)
-<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,edge:5678,center:23456,monitorEdge:5,edgeDirAndPath:>55,formula:U'R'FR}
+- Case1 UR棱块移动到前右(FR)
+<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:5678,edge:567890AB,center:23456,monitorEdge:9,edgeDirAndPath:94,formula:R'U'R'U'R'URUR}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
+
+-  Case2 UR棱块移动到后右(BR)
+<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:5678,edge:567890AB,center:23456,monitorEdge:B,edgeDirAndPath:B4,formula:RURURU'R'U'R'}
 " width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
+
+您可能会遇到目标棱块已经在中间层的情况,没有办法转动到UR的位置,你可以用上面介绍的任何一个公式把中间层的棱块先给挤出到顶层,再转成上面的2种case继续处理.<BR>
+
+到此9个公式中您已经学会5个,再学习4个公式就可以完整的还原了. :)

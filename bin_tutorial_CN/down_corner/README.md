@@ -17,4 +17,6 @@
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:5678,edge:5678,center:123456,monitorCorner:8,cornerDirAndPath:84,formula:RU2R'U'RUR'}
 " width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
-您可能会遇到目标角块已经在底层的情况,没有办法转动到UFR的位置,你可以用上面介绍的任何一个公式把底层的角块给挤出到顶层,再转成上面的3种case继续处理.
+您可能会遇到目标角块已经在底层的情况,没有办法转动到UFR的位置,你可以用上面介绍的任何一个公式把底层的角块给挤出到顶层,再转成上面的3种case继续处理.<BR>
+
+到此9个公式中您已经学会3个,再学习6个公式就可以完整的还原了. :)

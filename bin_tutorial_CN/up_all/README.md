@@ -10,6 +10,7 @@
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U},cornerDirAndPath:<2<3<4,formula:RUR'URU2R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
 - Case2 顶层有一个特殊的假小鱼,把鱼头放在FR(前左)的位置,注意角块UFR(上前右)的黄色朝向是右面,这条鱼是一条假的小鱼,运用下面的公式就可以得到真的小鱼,然后再用真小鱼的方法处理.
+<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U},cornerDirAndPath:>2<3<3>4,formula:RUR'URU2R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
 - Case3 顶层有一个十字,UFL(上前左)的黄色朝向左,UFR(上前右)的黄色朝向右,另外2个黄色在后面,如下图,用这个公式后就可以得到一条真正的顶层小鱼,然后在按照Case1的方法处理.
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U},cornerDirAndPath:<2>3>4,formula:RUR'URU2R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>

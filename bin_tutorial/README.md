@@ -2,13 +2,13 @@
 CFOP Rubik's Cube Recovery Tutorial
 This is a simple and easy to learn layer first method, total 7 steps
 
-- 1: Establish the bottom white cross
-- 2: Solve the bottom white corner block
+- 1: Create the down cross
+- 2: Solve the down corner block
 - 3: Solve the middle layer
 - 4: Solve the up yellow cross
-- 5: Solve all yellow on the up layer
-- 6: Solve the up corner block
-- 7: Solve up edge block
+- 5: Solve all yellow on the up
+- 6: Solve all corner on the up
+- 7: Solve all edge on the up
 <BR>
 The table below lists the goals after each step. You can turn the cube to see other faces in the diagram.
 
@@ -53,10 +53,10 @@ This tutorial is an extremely simple tutorial. You only need to remember 9 formu
 - [Know the basic Rubik's cube terms](./basic)
 - [Know the composition of Rubik's Cube](./cube_element)
 - 7 steps to restore cube
-  * [1: Establish the bottom white cross](./down_cross)
-  * [2: Solve the bottom white corner block](./down_corner)
+  * [1: Create the down cross](./down_cross)
+  * [2: Solve the down corner block](./down_corner)
   * [3: Solve the middle layer](./middle_layer)
   * [4: Solve the up yellow cross](./up_cross)
-  * [5: Solve all yellow on the up layer](./up_all)
-  * [6: Solve the up corner block](./up_corner)
-  * [7: Solve up edge block](./up_edge)  
+  * [5: Solve all yellow on the up](./up_all)
+  * [6: Solve all corner on the up](./up_corner)
+  * [7: Solve all edge on the up](./up_edge)  

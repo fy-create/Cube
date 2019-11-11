@@ -45,7 +45,7 @@ The table below lists the goals after each step. You can turn the cube to see ot
     </tbody>
 </table>
 
-This tutorial is an extremely simple tutorial. You only need to remember 9 formulas to restore the Rubik's Cube smoothly. It is not difficult to restore the Rubik's Cube. It is important to have confidence. Follow the tutorial to experiment. I wish you success!
+This tutorial is an extremely simple tutorial. You only need to remember 9 formulas to restore the Rubik's Cube smoothly. It is not difficult to restore the Rubik's Cube. It is important to have confidence. Follow the tutorial to experiment. Wish you success!
 
 
 ### Start

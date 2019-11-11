@@ -60,3 +60,16 @@
   * [5: 解决顶层所有黄色](./up_all)
   * [6: 解决顶层角块](./up_corner)
   * [7: 顶层棱块归位](./up_edge)  
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+<img style="margin-right:20px" src="../res/donate_wechat.png"/>  

@@ -59,3 +59,8 @@ This tutorial is an extremely simple tutorial. You only need to remember 9 formu
   * [5: Solve all yellow on the up](./up_all)
   * [6: Solve all corner on the up](./up_corner)
   * [7: Solve all edge on the up](./up_edge)  
+
+
+
+
+  <a href="https://paypal.me/irepo?locale.x=zh_XC"><img style="margin-right:20px" src="../res/donate.png"/></a>

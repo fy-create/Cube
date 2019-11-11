@@ -15,5 +15,8 @@
 - Case3 顶层有一个十字,UFL(上前左)的黄色朝向左,UFR(上前右)的黄色朝向右,另外2个黄色在后面,如下图,用这个公式后就可以得到一条真正的顶层小鱼,然后在按照Case1的方法处理.
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U},cornerDirAndPath:<2>3>4,formula:RUR'URU2R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
+- Case4 顶层有2个角块的颜色不对,UFL(上前左的黄色朝向左),UBL(上后左)的颜色朝向左,这种情况运用这个公式后就可以转变为Case3,然后再用Case3的方法处理.
+<iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U},cornerDirAndPath:>2,formula:RUR'URU2R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
+
 
 到此9个公式中您已经学会7个,再学习2个公式就可以完整的还原了. :)

@@ -1,5 +1,5 @@
 ### 7: 顶层棱块归位
-顶层的4个角块归位,您的目标：
+顶层的4个棱块归位,您的目标：
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:12345678,edge:1234567890AB,center:123456}
 " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
 

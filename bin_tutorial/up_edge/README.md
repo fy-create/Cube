@@ -1,18 +1,22 @@
-### 7: 顶层棱块归位
-顶层的4个角块归位,您的目标：
+### 7: Solve up edge block
+Restore the U(up) 4 edge blocks, your goal:
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:12345678,edge:1234567890AB,center:123456}
 " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
 
-这是最后一步了,只有一个公式<span style="color: red;">**RU'RURURU'R'U'R'R'**</span>,把不需要交换的棱放在后面,使用公式可以把前右左三个面的顶层棱块做逆时针调换,如果找不到这样的面,使用公式一次就可以得到这样的面,使用1到2次公式魔方就还原了!!
+This is the last step. There is only one formula <span style="color: red;">**RU'RURURU'R'U'R'R'**</span>. The edge blocks that do not need to be exchanged are placed on back face, using this formula,  front right and left edge blocks of the up layer can be exchanged counterclockwise. If you can't find such a face you can get such a face by run this formula.
 
 
-- Case1 找到了不需要交换的棱块,把他放在后面
+
+- Case1 Found the edge that need not to swap, put it on back.
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeDirAndPath:24,formula:RU'RURURU'R'U'R'R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
--  Case2 找不到不需要交换的棱块,直接先做一次这个公式就能得到Case1,至多在做2次这个公式就可以完全的还原魔方了.
+-  Case2 Can't find the edge that need not to be exchanged. You can get Case1 by directly doing this formula first. You can restore the Rubik's cube completely by doing this formula no more than 2 times.
+
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeDirAndPath:2343,formula:RU'RURURU'R'U'R'R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
 
-到此9个公式中您已经学会9个,做到这里相信您的魔方已经还原了. :)
+You have learned 9 of the 9 formulas, so believe that your Rubik's Cube has been restored. :)
+
+<p style="color: #5e9ca0;"><span style="background-color: #ff0000;"><span style="background-color: #00ff00;">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> 9/9</p>
 
 https://paypal.me/irepo?locale.x=zh_XC

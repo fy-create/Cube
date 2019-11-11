@@ -24,4 +24,6 @@
 - Case6 顶层有2个角块的颜色不对,UFL(上前左),UBR(上后右)的颜色不对,运用这个公式后就可以转变为Case3(顶层十字),然后再用Case3的方法处理.
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U},cornerDirAndPath:>3,formula:RUR'URU2R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
+本步骤的关键是需要根据顶层各种情况,运用<span style="color: red;">**RUR'URU2R'**</span>能得到一个顶层<span style="color: red;">**真小鱼**</span>,然后再次用这个公式把小鱼直接复原成整个顶层.
+
 到此9个公式中您已经学会7个,再学习2个公式就可以完整的还原了. :)

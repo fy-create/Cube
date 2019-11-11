@@ -1,17 +1,17 @@
-## <span style="color: red;">CFOP</span>魔方复原教程
-这是一个简单易学的**层先法**7步3D魔方还原教程,共有7个步骤<BR>
+## <span style="color: red;">CFOP</span>Rubik's Cube Recovery Tutorial
+CFOP Rubik's Cube Recovery Tutorial
+This is a simple and easy to learn layer first method, total 7 steps
 
-- 1: 建立底层白色十字
-- 2: 解决底面白色角块
-- 3: 解决中间层
-- 4: 解决顶层黄色十字
-- 5: 解决顶层所有黄色
-- 6: 解决顶层角块
-- 7: 顶层棱块归位
+- 1: Establish the bottom white cross
+- 2: Solve the bottom white corner block
+- 3: Solve the middle layer
+- 4: Solve the top yellow cross
+- 5: Solve all yellow on the top layer
+- 6: Solve the top corner block
+- 7: Solve Top layer edge block
+<BR>
+The table below lists the goals after each step. You can turn the cube to see other faces in the diagram.
 
-
-
-下表列出了每一步完成后的目标,你可以在图中转动魔方查看其他面.
 
 <table class="hoverable bordered striped responsive-table">
     <tbody>
@@ -46,17 +46,17 @@
     </tbody>
 </table>
 
-本教程是一个极其简单的教程,只需要记住9个公式就可以顺利的还原魔方.还原魔方并不难,重要是要有信心,跟随教程来实验吧,祝您成功!
+This tutorial is an extremely simple tutorial. You only need to remember 9 formulas to restore the Rubik's Cube smoothly. It is not difficult to restore the Rubik's Cube. It is important to have confidence. Follow the tutorial to experiment. I wish you success!
 
 
-### 开始
-- [认识基本的魔方术语](./basic)
-- [认识魔方的构成](./cube_element)
-- 开始7步还原步骤
-  * [1: 建立底层白色十字](./down_cross)
-  * [2: 解决底面白色角块](./down_corner)
-  * [3: 解决中间层](./middle_layer)
-  * [4: 解决顶层黄色十字](./up_cross)
-  * [5: 解决顶层所有黄色](./up_all)
-  * [6: 解决顶层角块](./up_corner)
-  * [7: 顶层棱块归位](./up_edge)  
+### Start
+- [Know the basic Rubik's cube terms](./basic)
+- [Know the composition of Rubik's Cube](./cube_element)
+- 7 steps to restore cube
+  * [1: Establish the bottom white cross](./down_cross)
+  * [2: Solve the bottom white corner block](./down_corner)
+  * [3: Solve the middle layer](./middle_layer)
+  * [4: Solve the top yellow cross](./up_cross)
+  * [5: Solve all yellow on the top layer](./up_all)
+  * [6: Solve the top corner block](./up_corner)
+  * [7: Solve Top layer edge block](./up_edge)  

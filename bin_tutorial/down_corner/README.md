@@ -21,3 +21,4 @@ After completing the bottom cross, you need to restore the bottom corner block. 
 You may encounter the situation where the target corner block is already at the bottom. you has no way to turn it to the UFR position. You can use any of the formulas described above to push the bottom corner block to the top layer and then it become one of the case1-3.<BR>
 
 So far, you have learned 3 of the 9 formulas, and you can restore the Rubik's cube by learning 6 formulas. :)
+<p style="color: #5e9ca0;"><span style="background-color: #ff0000;"><span style="background-color: #00ff00;">&nbsp; &nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 3/9</p>

@@ -1,4 +1,4 @@
-## <span style="color: red;">CFOP</span>Rubik's Cube Recovery Tutorial
+## <span style="color: red;">CFOP</span> Rubik's Cube Recovery Tutorial
 CFOP Rubik's Cube Recovery Tutorial
 This is a simple and easy to learn layer first method, total 7 steps
 

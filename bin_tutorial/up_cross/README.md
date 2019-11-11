@@ -1,22 +1,24 @@
-### 4: 解决顶层黄色十字
-您的目标：
+### 4: Solve the top yellow cross
+Your goal:
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:5678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U}}
 " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
 
-所谓顶层十字,就是把所有的黄色棱块,都翻到顶层,不用考虑顶层角块,这一步只需要一个公式<span style="color: red;">**FRUR'U'F'**</span>,具体解法请参考图示
+
+The so-called top cross is to turn all the yellow color  to the U(up) face, regardless of the top corner block. This step only requires a formula <span style="color: red;">**FRUR'U'F'**</span>,please refer to the illustration for the specific case.
 
 
-- Case1 顶层已经有一个一字
-运用下面的公式就可以得到顶层十字
+- Case1 There is already  "---" on the U
+Use the formula below to get the top cross
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:5678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},monitorEdge:1234,monitorCenter:1,edgeDirAndPath:>3,formula:FRUR'U'F'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
--  Case2 顶层左后各有一个黄色
-运用下面的公式就可以得到顶层一字,这样就变成了Case1,在用Case1的方法得到顶层十字.
+-  Case2 There is a yellow color on left(L) and back(B)
+Use the following formula to get the "---", which becomes Case1, and uses the Case1 method to get the top cross.
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:5678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},monitorEdge:1234,monitorCenter:1,edgeDirAndPath:>4,formula:FRUR'U'F'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
--  Case3 顶层只有中心块是黄色
-运用下面的公式就可以转变为Case2,在用Case2的方法得到顶层十字.
+-  Case3 Only the center block on the up(U) is yellow
+Use the following formula to convert to Case2, and use the Case2 method to get the top cross.
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:5678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},monitorEdge:1234,monitorCenter:1,edgeDirAndPath:>2>3>4,formula:FRUR'U'F'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
 
-到此9个公式中您已经学会6个,再学习3个公式就可以完整的还原了. :)
+So far, you have learned 6 of the 9 formulas, and you can restore the Rubik's cube by learning 3 formulas. :)
+<p style="color: #5e9ca0;"><span style="background-color: #ff0000;"><span style="background-color: #00ff00;">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;</span> 6/9</p>

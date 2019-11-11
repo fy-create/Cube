@@ -3,7 +3,7 @@
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.0,corner:5678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U}}
 " width="100px" height="100px" frameborder="0" scrolling="no"></iframe>
 
-所谓顶层十字,就是把所有的黄色棱块,都翻到顶层,不用考虑顶层角块,这一步只需要一个公式<span style="color: red;">**FRUR'U'F'**</span>,具体解法请参考图示
+所谓顶层十字,就是把所有的黄色棱块的黄色都翻到顶层,不用考虑顶层角块,这一步只需要一个公式<span style="color: red;">**FRUR'U'F'**</span>,具体解法请参考图示
 
 
 - Case1 顶层已经有一个一字

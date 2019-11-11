@@ -19,4 +19,5 @@ You have learned 9 of the 9 formulas, so believe that your Rubik's Cube has been
 
 <p style="color: #5e9ca0;"><span style="background-color: #ff0000;"><span style="background-color: #00ff00;">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> 9/9</p>
 
-https://paypal.me/irepo?locale.x=zh_XC
+
+<a href="https://paypal.me/irepo?locale.x=zh_XC"><img style="margin-right:20px" src="../../res/donate.png"/></a>

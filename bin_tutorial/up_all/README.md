@@ -14,7 +14,7 @@ This step only requires 1 formula <span style="color: red;">**RUR'URU2R'**</span
 
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U},cornerDirAndPath:>2<3<3>4,formula:RUR'URU2R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
-- Case3 There is a cross on the U(up), the yellow color of the UFL(up front left) is toward the left, and the yellow of the UFR(up front right) is toward the right. As shown in the figure below, you can get a real up fish with this formula, which becomes Case1, and uses the Case1 method to get the complete up yellow.
+- Case3 There is a cross on the U(up), the yellow color of the UFL(up front left) is toward the left, and the yellow of the UFR(up front right) is toward the right. As shown in the figure below, you can get a valid up small fish with this formula, which becomes Case1, and uses the Case1 method to get the complete up yellow.
 
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U},cornerDirAndPath:<2>3>4,formula:RUR'URU2R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
@@ -22,7 +22,7 @@ This step only requires 1 formula <span style="color: red;">**RUR'URU2R'**</span
 
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U},cornerDirAndPath:>2,formula:RUR'URU2R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 
-- Case5 The yellow color of the 2 corner blocks on the up layer is wrong. The yellow color of UFL(up front left) is toward front, and the yellow color of the UBL(up back left) is toward back. This situation is very similar to Case4. After using this formula, you can change to Case2 ( Fake small fish), and uses the Case2 method to get the complete up yellow.
+- Case5 The yellow color of the 2 corner blocks on the up layer is wrong. The yellow color of UFL(up front left) is toward front, and the yellow color of the UBL(up back left) is toward back. This situation is very similar to Case4. After using this formula, you can change to Case2 ( invalid small fish), and uses the Case2 method to get the complete up yellow.
 
 <iframe src="https://fy-create.github.io/Cube/tools/browser/cube.html?para={screenRatio:1.5,eye:true,corner:12345678,edge:1234567890AB,center:123456,edgeValidFace:{1:U,2:U,3:U,4:U},cornerValidFace:{1:U,2:U,3:U,4:U},cornerDirAndPath:<2,formula:RUR'URU2R'}" width="300px" height="300px" frameborder="0" scrolling="no"></iframe>
 

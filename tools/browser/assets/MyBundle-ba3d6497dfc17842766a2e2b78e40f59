@@ -1,0 +1,12 @@
+B_START=Play
+B_HELP=Help
+B_ABOUT=About
+B_RATING=Rating Me
+B_REMOVE_AD=Remove Ad
+B_RESTORE=Restore Purchase
+T_INFO1=Please check your
+T_INFO2=Internet connection
+T_HELP1=Given 4 numbers  
+T_HELP2=between 1-13,
+T_HELP3=use + - * / to calculate 24.
+B_OK=OK

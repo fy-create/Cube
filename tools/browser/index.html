@@ -1,88 +1,35 @@
-
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-<title>Rubik's Cube Present</title>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<link href="styles.css" rel="stylesheet" type="text/css">
-<script src="soundmanager2-setup.js"></script>
-<script src="soundmanager2-jsmin.js"></script>
-<script src="//ads.lfstmedia.com/getad?site=283271"
-	type="text/javascript"></script>
-<style>
-#embed-html {
-	width: 356px;
-	height: 635px;
-	padding: 0px;
-	border: 0px solid #F00
-}
+       <head>
+              <title>GCreate cube</title>
+              <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+              <meta id="gameViewport" name="viewport" content="width=device-width initial-scale=1">
+              <link href="styles.css" rel="stylesheet" type="text/css">
+       </head>
 
-#foot {
-	background-color: white;
-	height: 260px;
-	width: 100%;
-	color: black;
-	text-align: center;
-	padding: 1px;
-	border: 0px solid #F00
-}
-</style>
-</head>
-<body
-	style="margin: 0; padding: 0; border: 0; background-color: #FFFFFF">
+       <body>
+          	<table border="0">
+				<tr>
+					<td>
+						<div align="center" id="embed-html" style="background-color: white;"></div>
+						<script type="text/javascript" src="html/html.nocache.js"></script>
+					</td>
+				</tr>
+			</table>
+       </body>
 
-	<table border="0">
-		<tr>
-			<td>
-				<div id="loading">please wait ...</div>
-				<div align="center" id="embed-html" style="background-color: white;"></div>
-				<script type="text/javascript" src="html/html.nocache.js"></script>
-			</td>
-		</tr>
+       <script>
+              function handleMouseDown(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                window.focus();
+              }
 
-		<tr>
-			<td>
-				<div id="foot" align="center">
-					<script type="text/javascript">
-					    //<![CDATA[
-					        LSM_Slot.DEV({
-					            adkey: '37c',
-					            ad_size: '728x90',
-					            slot: 'slot161752'
-					        });
-					    //]]>
-					</script>
-
-				</div>
-			</td>
-		</tr>
-	</table>
-
-
-</body>
-
-
-
-<script>
-function handleMouseDown(evt) {
-  evt.preventDefault();
-  evt.stopPropagation();
-  evt.target.style.cursor = 'default';
-}
-function handleMouseUp(evt) {
-  evt.preventDefault();
-  evt.stopPropagation();
-  evt.target.style.cursor = '';
-}
-function disableKeyDown(event){
-      event.preventDefault();
-}
-
-document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
-document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
-document.getElementsByTagName('body')[0].addEventListener('keydown', disableKeyDown, false);
-</script>
-
-
-
+              function handleMouseUp(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+              }
+              document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+              document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+       </script>
 </html>
